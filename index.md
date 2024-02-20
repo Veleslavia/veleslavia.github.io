@@ -29,7 +29,7 @@ Olga joined [AstraZeneca, Centre for AI](https://www.astrazeneca.com/r-d/data-sc
 
 Previously, she served as a Research Engineer at [Voctro Labs](https://www.linkedin.com/company/voctro-labs/about/) (acquired by Voicemod) and was awarded a 3-year R&D Torres Quevedo Fellowship in 2022. She interned at [Mitsubishi Electric Research Laboratories](https://www.merl.com/) under the supervision of [Gordon Wichern](https://www.merl.com/people/wichern) and [Jonathan Le Roux](https://www.jonathanleroux.org/), and at [Telefonica Research](https://twitter.com/TEFresearch) collaborating with [Joan Serrà](https://serrjoa.github.io/) and [Ilias Leontiadis](https://leontiadis.net/). 
 
-Olga received her PhD from the University of Pompeu Fabra in 2020, supervised by [Emilia Gómez](https://emiliagomez.com/) and [Gloria Haro](https://scholar.google.com/citations?user=edEh3UMAAAAJ&hl=en).,Her research focused on audio-visual deep learning methods and was supported by the María de Maeztu Unit of Excellence. She earned her Master’s degree in Applied Mathematics and Computer Science from [Moscow State University](https://cs.msu.ru/en) in 2013.
+Olga received her PhD from the University of Pompeu Fabra in 2020, supervised by [Emilia Gómez](https://emiliagomez.com/) and [Gloria Haro](https://scholar.google.com/citations?user=edEh3UMAAAAJ&hl=en). Her research focused on audio-visual deep learning methods and was supported by the María de Maeztu Unit of Excellence. She earned her Master’s degree in Applied Mathematics and Computer Science from [Moscow State University](https://cs.msu.ru/en) in 2013.
 
 In her free time, Olga enjoys visiting bakeries, mountaineering, spending time with her dog, and Irish dancing. 
 
