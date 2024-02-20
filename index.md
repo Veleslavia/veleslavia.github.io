@@ -14,7 +14,7 @@ blockquote {
 <p align="center"> <br />
 Olga Slizovskaia <br />
 Associate Principal AI Scientist <br />
-<a url="https://www.astrazeneca.com/r-d/data-science-and-ai.html">AstraZeneca, Centre for AI</a> <br />
+<a href="https://www.astrazeneca.com/r-d/data-science-and-ai.html">AstraZeneca, Centre for AI</a> <br />
 Av. Diagonal, 615  <br />
 Les Corts, 08028 Barcelona
 </p> 
