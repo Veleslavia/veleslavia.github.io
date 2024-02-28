@@ -101,7 +101,7 @@ My research focuses on developing machine learning and deep learning techniques 
 ### Dissimination materials
 - PhD Thesis:  
 **Audio-visual deep learning methods for musical instrument classification and separation**  
-[[Manuscript]](/assets/thesis/thesis.pdf) [[Slides]](https://github.com/Veleslavia/defense-slides) [[Defense Video]](https://www.youtube.com/watch?v=FmgiMzkabrA)
+[[Manuscript]](/assets/thesis/thesis.pdf) [[Slides]](https://veleslavia.github.io/defense-slides) [[Defense Video]](https://www.youtube.com/watch?v=FmgiMzkabrA)
 - **[Conditioned Source Separation for Music Instrument Performances](https://veleslavia.github.io/conditioned-u-net)**
 
 ### Code
