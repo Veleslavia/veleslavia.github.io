@@ -36,6 +36,7 @@ In her free time, Olga enjoys visiting bakeries, mountaineering, spending time w
 ---
 
 ## Career
+**2025 -- Principal AI Scientist** - [AstraZeneca, Centre for AI](https://www.astrazeneca.com/r-d/data-science-and-ai.html)  
 **2023 -- Associate Principal AI Scientist** - [AstraZeneca, Centre for AI](https://www.astrazeneca.com/r-d/data-science-and-ai.html)  
 - Audio biomarkers discovery research and respiratory sound analysis with deep learning and machine learning techniques
 
